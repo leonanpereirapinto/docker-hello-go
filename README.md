@@ -1,1 +1,1 @@
-Docker image: `leonanpereirapinto/hello-go`
+Docker image: `leonanpereirapinto/codeeducation`
